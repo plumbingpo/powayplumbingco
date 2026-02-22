@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://powayplumbingco.com/sitemap.xml
